@@ -1,0 +1,9 @@
+baseURL = "https://couto.xyz/"
+languageCode = "en-us"
+title = "couto.xyz"
+
+theme = "hyde"
+[params]
+  themeColor = "theme-base-08"
+  layoutReverse = true
+  description = "Sharing ideas, workarounds and random thoughts"
