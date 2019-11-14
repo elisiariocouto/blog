@@ -3,6 +3,13 @@ languageCode = "en-us"
 title = "couto.xyz"
 
 theme = "hyde"
+disqusShortname = "elisiariocouto"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/elisiariocouto/"}
+  ]
+
 [params]
   themeColor = "theme-base-08"
   layoutReverse = true
